@@ -6,7 +6,6 @@
 Write about how to use this project.
 
 ### Installation
--**Clone the repository:**
 
    ```bash
    git clone https://github.com/baronlegacy256/lumina.git
